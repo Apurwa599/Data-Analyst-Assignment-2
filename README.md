@@ -43,10 +43,7 @@ EDA was performed to:
   * Feedback ratings
 * Aggregated batch-level metrics to instructor-level data
 
----
-
-## 🤖 Model Building
-
+### 🤖 Model Building
 * Model Used: **Random Forest Classifier**
 * Steps:
 
@@ -54,11 +51,8 @@ EDA was performed to:
   2. Feature scaling
   3. Model training
   4. Prediction on test data
-
----
-
-## 📈 Model Evaluation
-
+     
+### 📈 Model Evaluation
 * Evaluated using:
 
   * **Classification Report**
@@ -70,60 +64,26 @@ EDA was performed to:
   * Recall
   * F1-score
 
----
-
-## 💡 Key Insights
+### 💡 Key Insights
 
 * Feedback scores strongly influence instructor effectiveness
 * Higher engagement correlates with better learner outcomes
 * Certain performance metrics are strong predictors of instructor success
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-   ```bash
-   git clone <your-repo-link>
-   ```
-
-2. Install dependencies
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-
-3. Run the notebook
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
-## 📌 Future Improvements
+### 📌 Future Improvements
 
 * Use advanced models like **XGBoost or LightGBM**
 * Hyperparameter tuning for better performance
 * Deploy model using **Streamlit**
 * Add real-time instructor evaluation dashboard
 
----
-
-## 👩‍💻 Author
-
+### 👩‍💻 Author
 **Apurwa Khare**
-MCA (AI & ML) | Data Science & Machine Learning Enthusiast
+MCA (AI & ML) | Data Analytics & Machine Learning Enthusiast
 
----
-
-## 📎 Notes
-
+### 📎 Notes
 This project is part of an **EdTech analytics assignment**, demonstrating skills in:
 
 * Data analysis
 * Machine learning
 * Business insight generation
-
----
