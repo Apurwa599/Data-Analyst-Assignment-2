@@ -1,40 +1,32 @@
 ## Data-Analyst-Assignment-2
 ### 📊 Instructor Effectiveness Modeling (EdTech Platform)
+
 ### 📌 Project Overview
 This project focuses on analyzing and modeling **instructor effectiveness** using data from an EdTech platform. The goal is to evaluate instructor performance based on learner outcomes, engagement, and feedback, and to build a machine learning model that classifies instructors into effectiveness tiers.
 
 ### 🎯 Objectives
-
-* Perform **Exploratory Data Analysis (EDA)** to understand the dataset
+* Perform **Exploratory Data Analysis (EDA)**-to understand the dataset
 * Define an **Instructor Effectiveness Score**
 * Aggregate batch-level data to **instructor-level insights**
-* Build a **Machine Learning model** to predict effectiveness categories
+* Build a **Machine Learning model**-to predict effectiveness categories
 * Evaluate model performance
 * Interpret key factors influencing instructor effectiveness
-
----
-
-## 📂 Dataset
-
+  
+### 📂 Dataset
 The dataset contains ~2000 records with features related to:
 
 * Learner performance (quiz scores, completion rates)
 * Engagement metrics
 * Feedback ratings
 
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 * **Python**
 * **Pandas & NumPy** – Data manipulation
 * **Matplotlib & Seaborn** – Data visualization
 * **Scikit-learn** – Machine learning
 
----
-
-## 🔍 Exploratory Data Analysis (EDA)
-
+### 🔍 Exploratory Data Analysis (EDA)
 EDA was performed to:
 
 * Understand feature distributions
@@ -42,9 +34,7 @@ EDA was performed to:
 * Analyze relationships between variables using correlation heatmaps
 * Visualize key metrics like quiz scores and feedback
 
----
-
-## 🧮 Feature Engineering
+### 🧮 Feature Engineering
 
 * Created an **Instructor Effectiveness Score** based on:
 
